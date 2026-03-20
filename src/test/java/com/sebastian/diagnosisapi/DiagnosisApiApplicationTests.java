@@ -1,4 +1,4 @@
-package com.socio.diagnosisapi;
+package com.sebastian.diagnosisapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
